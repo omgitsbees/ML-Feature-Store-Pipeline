@@ -423,11 +423,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Pydantic](https://pydantic-docs.helpmanual.io/) for data validation
 - [SQLite](https://sqlite.org/) for reliable storage
 
-## 📞 Support
-
-- 📖 [Documentation](https://github.com/yourusername/advanced-feature-store/wiki)
-- 🐛 [Issue Tracker](https://github.com/yourusername/advanced-feature-store/issues)
-- 💬 [Discussions](https://github.com/yourusername/advanced-feature-store/discussions)
-- 📧 Email: support@yourorganization.com
-
 ---
